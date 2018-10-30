@@ -4,7 +4,7 @@
 
 int main(){
 
-    int* ARRAY=NULL;
+    int* ARRAY=NULL;//initialize array
     int ContinueFilling=1; //This is to know if we should continue filling our array
     int ARRAY_LENGTH=0,isSorted=0,i,TEMPORARY_ELEMENT;
 
